@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1688047967 source:c:\users\maxiv\onedrive\escritorio\uni\c++\tpentrega\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Funciones.h"
+
+1688048348 c:\users\maxiv\onedrive\escritorio\uni\c++\tpentrega\funciones.h
+	<iostream>
+
+1688058866 source:c:\users\54114\downloads\tpchat\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"todo.h"
+
+1688054099 c:\users\54114\downloads\tpchat\funciones.h
+	<iostream>
+
+1688058857 c:\users\54114\downloads\tpchat\todo.h
+	"Funciones.h"
+
+1688092562 source:c:\users\gamer\desktop\tpjavier\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"todo.h"
+	"funciones.h"
+
+1688092564 c:\users\gamer\desktop\tpjavier\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688092558 c:\users\gamer\desktop\tpjavier\dados.h
+
+1688096129 c:\users\gamer\desktop\tpjavier\todo.h
+	"Funciones.h"
+
+1688095059 c:\users\gamer\desktop\tpjavier\funciones.h
+	<iostream>
+
+1688059099 source:c:\users\54114\downloads\tpjavier\tpjavier\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"todo.h"
+	"funciones.h"
+
+1571584339 c:\users\54114\downloads\tpjavier\tpjavier\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686881509 c:\users\54114\downloads\tpjavier\tpjavier\dados.h
+
+1688092695 c:\users\54114\downloads\tpjavier\tpjavier\todo.h
+	"Funciones.h"
+
+1688065300 c:\users\54114\downloads\tpjavier\tpjavier\funciones.h
+	<iostream>
+
+1688092562 source:c:\users\54114\downloads\tpjavier (1)\tpjavier\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"todo.h"
+	"funciones.h"
+
+1688092564 c:\users\54114\downloads\tpjavier (1)\tpjavier\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688092558 c:\users\54114\downloads\tpjavier (1)\tpjavier\dados.h
+
+1688097236 c:\users\54114\downloads\tpjavier (1)\tpjavier\todo.h
+	"Funciones.h"
+
+1688095059 c:\users\54114\downloads\tpjavier (1)\tpjavier\funciones.h
+	<iostream>
+
+1688092562 source:c:\users\maxiv\onedrive\escritorio\tplisto\tpterminado\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"todo.h"
+	"funciones.h"
+
+1688092564 c:\users\maxiv\onedrive\escritorio\tplisto\tpterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688092558 c:\users\maxiv\onedrive\escritorio\tplisto\tpterminado\dados.h
+
+1688097236 c:\users\maxiv\onedrive\escritorio\tplisto\tpterminado\todo.h
+	"Funciones.h"
+
+1688117822 c:\users\maxiv\onedrive\escritorio\tplisto\tpterminado\funciones.h
+	<iostream>
+
+1688092562 source:c:\users\maxiv\onedrive\escritorio\tpterminado\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+	"todo.h"
+	"funciones.h"
+
+1688092564 c:\users\maxiv\onedrive\escritorio\tpterminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688092558 c:\users\maxiv\onedrive\escritorio\tpterminado\dados.h
+
+1688129641 c:\users\maxiv\onedrive\escritorio\tpterminado\todo.h
+	"Funciones.h"
+
+1688131105 c:\users\maxiv\onedrive\escritorio\tpterminado\funciones.h
+	<iostream>
+
